@@ -104,11 +104,11 @@
 
 <div align="center">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmwaio&locale=en&hide_title=true&layout=pie&card_width=340&langs_count=5&theme=flag-india&hide_border=false&order=2" height="355" alt="languages graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmwaio&locale=en&hide_title=true&layout=pie&card_width=325&langs_count=5&theme=flag-india&hide_border=false&order=2" height="355" alt="languages graph"  />
   
   <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=hmwaio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox-light&locale=en&hide_border=false&order=1" height="150" alt="stats    graph"  />
-  <img width="400" height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=hmwaio&" alt="hmwaio"/>
+  <img width="415" height="232" src="https://github-readme-streak-stats.herokuapp.com/?user=hmwaio&" alt="hmwaio"/>
   </div>
   
 </div>
