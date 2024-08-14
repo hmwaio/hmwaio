@@ -98,18 +98,13 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/hmwaio"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmwaio"/></a>
 </p>
-<br>
-<br>
-
-
-<img src="https://raw.githubusercontent.com/hmwaio/hmwaio/output/snake.svg" alt="Snake animation" />
-
 
 <br>
 <br>
+
 <div align="center">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmwaio&locale=en&hide_title=true&layout=pie&card_width=400&langs_count=5&theme=flag-india&hide_border=false&order=2" height="355" alt="languages graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmwaio&locale=en&hide_title=true&layout=pie&card_width=375&langs_count=5&theme=flag-india&hide_border=false&order=2" height="355" alt="languages graph"  />
   
   <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=hmwaio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox-light&locale=en&hide_border=false&order=1" height="150" alt="stats    graph"  />
