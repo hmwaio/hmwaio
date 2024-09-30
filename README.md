@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/C52ztxWB/bg.jpg)
+![MasterHead](https://i.postimg.cc/T2b4n38Q/bg.jpg)
 <h1 align="center">Namaste 🙏🏻, I'm Muraridhar Pal</h1>
 <h3 align="center">"A passionate developer fueled by caffeine and the thrill of making semicolons behave!"</h3>
 
