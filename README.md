@@ -11,13 +11,13 @@
 - 🌱 I’m currently **Crafting digital dreams with JavaScript, taming algorithms in Java & C++, and coding AI charm in Python—soon to dazzle Android with React Native**
 <img align="right" alt="Coding" height="275" width="400" src=https://i.postimg.cc/q7FDS5fq/github.gif>
 
-- 👯 I’m looking to collaborate on **bed**
+- 👯 I’m looking to collaborate on **keyboard**
 
 - 🤝 Looking for help from **Lana Del Ray**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/hmwaio/)
 
-- 📝 I regularly write articles on **yourhand**
+- 📝 I regularly write articles on **.**
 
 - 💬 Talk to me about **cricket, python (both of these are not any kind of insect or animals)**
 
