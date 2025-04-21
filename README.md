@@ -8,7 +8,7 @@
 
 - 🔭 "Currently mastering **ML, Web 3.0, and pushing boundaries in tech exploration**
 
-- 🌱 I’m currently **Crafting digital dreams with JavaScript, taming algorithms in Java & C++, and coding AI charm in Python—soon to dazzle Android with React Native**
+- 🌱 I’m currently **Crafting digital dreams with JavaScript, taming algorithms in C++, and coding AI charm in Python—soon to dazzle Android with React Native**
 <img align="right" alt="Coding" height="275" width="400" src=https://i.postimg.cc/q7FDS5fq/github.gif>
 
 - 👯 I’m looking to collaborate on **keyboard**
